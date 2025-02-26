@@ -1,0 +1,6 @@
+<GDALMultiDomainMetadata>
+  <Metadata domain="NATIVE_DATA">
+    <MDI key="NATIVE_DATA">{ "totalFeatures": 794, "numberMatched": 794, "numberReturned": 500, "timeStamp": "2025-02-26T17:11:02.724Z", "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::26912" } }, "bbox": [ 227632.1556, 4109959.5984, 668106.08239999996, 4646799.8015999999 ] }</MDI>
+    <MDI key="NATIVE_MEDIA_TYPE">application/vnd.geo+json</MDI>
+  </Metadata>
+</GDALMultiDomainMetadata>
